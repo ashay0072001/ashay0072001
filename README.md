@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **framework**
 
-- 👨‍💻 All of my projects are available at [https://ashaykumar.netlify.app/](https://ashay-kumar.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ashay-kumar.netlify.app/](https://ashay-kumar.netlify.app/)
 
 - 📫 How to reach me **Ashaykumar2001@gmail.com**
 
