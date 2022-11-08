@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashay kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashay0072001&label=Profile%20views&color=0e75b6&style=flat" alt="ashay0072001" /> </p>
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **framework**
 
-- 👨‍💻 All of my projects are available at [https://ashaykumar.netlify.app/](https://ashaykumar.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ashaykumar.netlify.app/](https://ashay-kumar.netlify.app/)
 
 - 📫 How to reach me **Ashaykumar2001@gmail.com**
 
